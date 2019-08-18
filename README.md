@@ -35,10 +35,10 @@ The task is episodic, and in order to solve the environment, your agent must get
 2. Place the file in the DRLND GitHub repository, in the `p1_navigation/` folder, and unzip (or decompress) the file. 
 
 ### Instructions
-Environment Info
+- Environment Info
 	Python 3.5.4
-First Installed or required package using requirements.txt
+- First Installed or required package using requirements.txt
 	pip install -r requirements.txt
-The code for the Model and Agent are in model.py and dqn_agent.py, respectively.
+- The code for the Model and Agent are in model.py and dqn_agent.py, respectively.
 
-Follow the instructions in `Navigation.ipynb` to get started with training your own agent!  
+- Follow the instructions in `Navigation.ipynb` to get started with training your own agent!  
