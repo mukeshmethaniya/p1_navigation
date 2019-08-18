@@ -36,9 +36,9 @@ The task is episodic, and in order to solve the environment, your agent must get
 
 ### Instructions
 - Environment Info
-	Python 3.5.4
+	- Python 3.5.4
 - First Installed or required package using requirements.txt
-	pip install -r requirements.txt
+	- pip install -r requirements.txt
 - The code for the Model and Agent are in model.py and dqn_agent.py, respectively.
 
 - Follow the instructions in `Navigation.ipynb` to get started with training your own agent!  
