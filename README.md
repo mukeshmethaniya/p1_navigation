@@ -41,4 +41,6 @@ The task is episodic, and in order to solve the environment, your agent must get
 	- pip install -r requirements.txt
 - The code for the Model and Agent are in model.py and dqn_agent.py, respectively.
 
-- Follow the instructions in `Navigation.ipynb` to get started with training your own agent!  
+- Follow the instructions in `Navigation.ipynb` to get started with training your own agent!
+- Find Existing training weight in 'dqn_checkpoint.pth'
+- Find Report of project in report.pdf file
